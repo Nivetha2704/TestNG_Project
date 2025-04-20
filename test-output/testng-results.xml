@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T17:45:06Z" name="Default suite" finished-at="2025-04-13T17:45:10Z" duration-ms="3696">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T17:45:06Z" name="Default test" finished-at="2025-04-13T17:45:10Z" duration-ms="3696">
+      <class name="swaglab_test.LoginTest">
+        <test-method is-config="true" signature="SetUpExcel()[pri:0, instance:swaglab_test.LoginTest@2de56eb2]" started-at="2025-04-13T17:45:06Z" name="SetUpExcel" finished-at="2025-04-13T17:45:07Z" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpExcel -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:swaglab_test.LoginTest@2de56eb2]" started-at="2025-04-13T17:45:07Z" name="SetUp" finished-at="2025-04-13T17:45:10Z" duration-ms="2810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginFailureTestFromExcel()[pri:0, instance:swaglab_test.LoginTest@2de56eb2]" started-at="2025-04-13T17:45:10Z" name="LoginFailureTestFromExcel" finished-at="2025-04-13T17:45:10Z" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailureTestFromExcel -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:swaglab_test.LoginTest@2de56eb2]" started-at="2025-04-13T17:45:10Z" name="TearDown" finished-at="2025-04-13T17:45:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="CloseExcel()[pri:0, instance:swaglab_test.LoginTest@2de56eb2]" started-at="2025-04-13T17:45:10Z" name="CloseExcel" finished-at="2025-04-13T17:45:10Z" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseExcel -->
+      </class> <!-- swaglab_test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

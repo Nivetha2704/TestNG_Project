@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <groups>
+  		<run>
+  			<include name="sanity"/>
+  		</run>	
+  	</groups>
+      <class name="Testng.AnnotationsExample"/>
+      <class name="Testng.AnnotationsExample2">
+      <methods>
+      		<include name="test4"/>
+      	</methods>
+      </class>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
