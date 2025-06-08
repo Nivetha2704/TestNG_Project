@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-08T15:12:44Z" name="Suite" finished-at="2025-06-08T15:12:44Z" duration-ms="19">
+    <groups>
+      <group name="sanity">
+        <method signature="AnnotationsExample.test1()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" name="test1" class="Testng.AnnotationsExample"/>
+        <method signature="AnnotationsExample2.test3()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" name="test3" class="Testng.AnnotationsExample2"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-06-08T15:12:44Z" name="Test" finished-at="2025-06-08T15:12:44Z" duration-ms="19">
+      <class name="Testng.AnnotationsExample">
+        <test-method is-config="true" signature="method3()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" started-at="2025-06-08T15:12:44Z" name="method3" finished-at="2025-06-08T15:12:44Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" started-at="2025-06-08T15:12:44Z" name="method1" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" started-at="2025-06-08T15:12:44Z" name="method2" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="test1()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" started-at="2025-06-08T15:12:44Z" name="test1" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="method4()[pri:0, instance:Testng.AnnotationsExample@6a2f6f80]" started-at="2025-06-08T15:12:44Z" name="method4" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- Testng.AnnotationsExample -->
+      <class name="Testng.AnnotationsExample2">
+        <test-method is-config="true" signature="method1()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="method1" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="test3()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="test3" finished-at="2025-06-08T15:12:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="method2" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="test4()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="test4" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="method1" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:Testng.AnnotationsExample2@8c3b9d]" started-at="2025-06-08T15:12:44Z" name="method2" finished-at="2025-06-08T15:12:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- Testng.AnnotationsExample2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
